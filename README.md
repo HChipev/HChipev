@@ -9,11 +9,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media.licdn.com/dms/image/D4D03AQFy4IXdjnn8OA/profile-displayphoto-shrink_400_400/0/1690285879748?e=1701907200&v=beta&t=4Jc6snJBw5zAaciQq64cwwMdP9edI7l6eqO5vACm8Bo"  />
+<img align="right" height="150" style="border-radius:50%" src="https://media.licdn.com/dms/image/D4D03AQFy4IXdjnn8OA/profile-displayphoto-shrink_400_400/0/1690285879748?e=1701907200&v=beta&t=4Jc6snJBw5zAaciQq64cwwMdP9edI7l6eqO5vACm8Bo"  />
 
 ###
 
-<h2 align="center">⚒️ Languages|Frameworks|Tools ⚒️</h2>
+<h2 align="left">⚒️ Languages|Frameworks|Tools ⚒️</h2>
 <br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
